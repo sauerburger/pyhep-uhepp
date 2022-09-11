@@ -1,7 +1,7 @@
 # Uhepp at PyHEP 2022
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sauerburger/pyhep-uhepp/HEAD?labpath=PyHEP_uhepp.ipynb)
-[![DOI](https://zenodo.org/badge/535091180.svg)](https://zenodo.org/badge/latestdoi/535091180)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7068212.svg)](https://doi.org/10.5281/zenodo.7068212)
 
 ## Additional resources
  - Python package: https://pypi.org/project/uhepp/
