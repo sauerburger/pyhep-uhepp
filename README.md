@@ -1,6 +1,6 @@
 # Uhepp at PyHEP 2022
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sauerburger/pyhep-uhepp/HEAD?labpath=PyHepp_uhepp.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sauerburger/pyhep-uhepp/HEAD?labpath=PyHEP_uhepp.ipynb)
 [![DOI](https://zenodo.org/badge/535091180.svg)](https://zenodo.org/badge/latestdoi/535091180)
 
 ## Additional resources
